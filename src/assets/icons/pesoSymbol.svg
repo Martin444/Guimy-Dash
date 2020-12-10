@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>monetization_on-24px (1)</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="141" y="161" width="1099" height="277" rx="4"></rect>
+        <filter x="-0.9%" y="-2.9%" width="101.8%" height="107.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#279DFA" offset="0%"></stop>
+            <stop stop-color="#0083E9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Reportes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Reportería_R9_02" transform="translate(-209.000000, -362.000000)">
+            <g id="Rectangle" transform="translate(690.500000, 299.500000) scale(1, -1) rotate(180.000000) translate(-690.500000, -299.500000) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="monetization_on-24px-(1)" transform="translate(206.000000, 359.000000)">
+                <polygon id="Path" points="0 0 38 0 38 38 0 38"></polygon>
+                <path d="M19,3.16666667 C10.26,3.16666667 3.16666667,10.26 3.16666667,19 C3.16666667,27.74 10.26,34.8333333 19,34.8333333 C27.74,34.8333333 34.8333333,27.74 34.8333333,19 C34.8333333,10.26 27.74,3.16666667 19,3.16666667 Z M21.2325,28.6425 L21.2325,29.5608333 C21.2325,30.7166667 20.2825,31.6666667 19.1266667,31.6666667 L19.1108333,31.6666667 C17.955,31.6666667 17.005,30.7166667 17.005,29.5608333 L17.005,28.6108333 C14.8991667,28.1675 13.0308333,27.0116667 12.2391667,25.0641667 C11.875,24.1933333 12.5558333,23.2275 13.5058333,23.2275 L13.8858333,23.2275 C14.4716667,23.2275 14.9466667,23.6233333 15.1683333,24.1775 C15.6275,25.365 16.8308333,26.1883333 19.1425,26.1883333 C22.2458333,26.1883333 22.9425,24.6366667 22.9425,23.6708333 C22.9425,22.3566667 22.2458333,21.1216667 18.715,20.2825 C14.7883333,19.3325 12.0966667,17.7175 12.0966667,14.4716667 C12.0966667,11.7483333 14.2975,9.975 17.0208333,9.38916667 L17.0208333,8.43916667 C17.0208333,7.28333333 17.9708333,6.33333333 19.1266667,6.33333333 L19.1425,6.33333333 C20.2983333,6.33333333 21.2483333,7.28333333 21.2483333,8.43916667 L21.2483333,9.42083333 C23.4333333,9.95916667 24.8108333,11.3208333 25.4125,12.9991667 C25.7291667,13.87 25.0641667,14.7883333 24.13,14.7883333 L23.7183333,14.7883333 C23.1325,14.7883333 22.6575,14.3766667 22.4991667,13.8066667 C22.135,12.6033333 21.1375,11.8275 19.1425,11.8275 C16.7675,11.8275 15.3425,12.9041667 15.3425,14.4241667 C15.3425,15.7541667 16.3716667,16.625 19.57,17.4483333 C22.7683333,18.2716667 26.1883333,19.6491667 26.1883333,23.6391667 C26.1566667,26.5366667 23.9875,28.12 21.2325,28.6425 L21.2325,28.6425 Z" id="Shape" fill="url(#linearGradient-3)" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="22px" viewBox="0 0 18 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>get_app-24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="440" height="70" rx="8"></rect>
+        <filter x="-2.4%" y="-10.7%" width="104.8%" height="130.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.14920236 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Reportes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Reportería_R0_01" transform="translate(-752.000000, -407.000000)">
+            <g id="Group-12" transform="translate(224.000000, 193.000000)">
+                <g id="Group-10" transform="translate(495.000000, 190.000000)">
+                    <g id="Rectangle-Copy-12" transform="translate(220.000000, 35.000000) rotate(-360.000000) translate(-220.000000, -35.000000) ">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+                <g id="get_app-24px" transform="translate(522.000000, 211.000000)">
+                    <path d="M23.75,11.25 L18.75,11.25 L18.75,3.75 L11.25,3.75 L11.25,11.25 L6.25,11.25 L15,20 L23.75,11.25 Z M6.25,22.5 L6.25,25 L23.75,25 L23.75,22.5 L6.25,22.5 Z" id="Shape" fill="#0083E9" fill-rule="nonzero"></path>
+                    <polygon id="Path" points="0 0 30 0 30 30 0 30"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

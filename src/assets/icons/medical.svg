@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="37px" viewBox="0 0 37 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>local_hospital-24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="141" y="288" width="1099" height="111" rx="4"></rect>
+        <filter x="-0.9%" y="-7.2%" width="101.8%" height="118.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#279DFA" offset="0%"></stop>
+            <stop stop-color="#0083E9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Reportes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Reportería_R2_04" transform="translate(-406.000000, -323.000000)">
+            <g id="Rectangle" transform="translate(690.500000, 343.500000) scale(1, -1) rotate(180.000000) translate(-690.500000, -343.500000) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="Group-5" transform="translate(401.000000, 318.000000)">
+                <g id="Group-4">
+                    <g id="local_hospital-24px">
+                        <polygon id="Path" points="0 0 47 0 47 47 0 47"></polygon>
+                        <path d="M37.2083333,5.875 L9.79166667,5.875 C7.6375,5.875 5.89458333,7.6375 5.89458333,9.79166667 L5.875,37.2083333 C5.875,39.3625 7.6375,41.125 9.79166667,41.125 L37.2083333,41.125 C39.3625,41.125 41.125,39.3625 41.125,37.2083333 L41.125,9.79166667 C41.125,7.6375 39.3625,5.875 37.2083333,5.875 Z M33.2916667,27.4166667 L27.4166667,27.4166667 L27.4166667,33.2916667 C27.4166667,34.36875 26.5354167,35.25 25.4583333,35.25 L21.5416667,35.25 C20.4645833,35.25 19.5833333,34.36875 19.5833333,33.2916667 L19.5833333,27.4166667 L13.7083333,27.4166667 C12.63125,27.4166667 11.75,26.5354167 11.75,25.4583333 L11.75,21.5416667 C11.75,20.4645833 12.63125,19.5833333 13.7083333,19.5833333 L19.5833333,19.5833333 L19.5833333,13.7083333 C19.5833333,12.63125 20.4645833,11.75 21.5416667,11.75 L25.4583333,11.75 C26.5354167,11.75 27.4166667,12.63125 27.4166667,13.7083333 L27.4166667,19.5833333 L33.2916667,19.5833333 C34.36875,19.5833333 35.25,20.4645833 35.25,21.5416667 L35.25,25.4583333 C35.25,26.5354167 34.36875,27.4166667 33.2916667,27.4166667 Z" id="Shape" fill="url(#linearGradient-3)" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

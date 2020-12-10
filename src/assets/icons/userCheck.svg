@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="21px" viewBox="0 0 24 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>how_to_reg-24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="5.68434189e-14" width="440" height="70" rx="8"></rect>
+        <filter x="-2.4%" y="-10.7%" width="104.8%" height="130.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.14920236 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#279DFA" offset="0%"></stop>
+            <stop stop-color="#0083E9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#279DFA" offset="0%"></stop>
+            <stop stop-color="#0083E9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Reportes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Reportería_R0_01" transform="translate(-253.000000, -408.000000)">
+            <g id="Group-12" transform="translate(224.000000, 193.000000)">
+                <g id="Group-5" transform="translate(0.000000, 190.000000)">
+                    <g id="Rectangle-Copy-12" transform="translate(220.000000, 35.000000) rotate(-360.000000) translate(-220.000000, -35.000000) ">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="how_to_reg-24px" transform="translate(25.000000, 20.000000)">
+                        <polygon id="Path" points="0 0 31 0 31 31 0 31"></polygon>
+                        <path d="M16,26 L14.8533333,24.87125 C13.28,23.3225 13.2933333,20.8025 14.88,19.28 L16,18.20375 C15.48,18.15125 15.0933333,18.125 14.6666667,18.125 C11.1066667,18.125 4,19.88375 4,23.375 L4,26 L16,26 Z M14.6666667,15.5 C17.6133333,15.5 20,13.150625 20,10.25 C20,7.349375 17.6133333,5 14.6666667,5 C11.72,5 9.33333333,7.349375 9.33333333,10.25 C9.33333333,13.150625 11.72,15.5 14.6666667,15.5" id="Shape" fill="url(#linearGradient-3)" fill-rule="nonzero"></path>
+                        <path d="M20.923913,25.632589 C20.4152174,26.1224703 19.5804348,26.1224703 19.0717391,25.632589 L16.3717391,23.0073273 C15.876087,22.5174459 15.876087,21.7386602 16.3717391,21.2613398 L16.3847826,21.2487788 C16.8934783,20.7588974 17.7152174,20.7588974 18.2108696,21.2487788 L19.9978261,22.9696441 L25.776087,17.367411 C26.2847826,16.8775297 27.1065217,16.8775297 27.6152174,17.367411 L27.6282609,17.3799721 C28.123913,17.8698535 28.123913,18.6486392 27.6282609,19.1259595 L20.923913,25.632589 Z" id="Path" fill="url(#linearGradient-4)" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

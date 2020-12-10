@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="36px" viewBox="0 0 34 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="141" y="161" width="1099" height="150" rx="4"></rect>
+        <filter x="-0.9%" y="-5.3%" width="101.8%" height="113.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#279DFA" offset="0%"></stop>
+            <stop stop-color="#0083E9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#279DFA" offset="0%"></stop>
+            <stop stop-color="#0083E9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Reportes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Reportería_R3_04" transform="translate(-918.000000, -233.000000)">
+            <g id="Rectangle" transform="translate(690.500000, 236.000000) scale(1, -1) rotate(180.000000) translate(-690.500000, -236.000000) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="Group-2" transform="translate(913.000000, 231.000000)">
+                <g id="person-24px-(1)">
+                    <polygon id="Path" points="0 0 41 0 41 41 0 41"></polygon>
+                    <path d="M20.5,20.5 C24.2754167,20.5 27.3333333,17.4420833 27.3333333,13.6666667 C27.3333333,9.89125 24.2754167,6.83333333 20.5,6.83333333 C16.7245833,6.83333333 13.6666667,9.89125 13.6666667,13.6666667 C13.6666667,17.4420833 16.7245833,20.5 20.5,20.5 Z M20.5,23.9166667 C15.93875,23.9166667 6.83333333,26.2058333 6.83333333,30.75 L6.83333333,32.4583333 C6.83333333,33.3979167 7.60208333,34.1666667 8.54166667,34.1666667 L32.4583333,34.1666667 C33.3979167,34.1666667 34.1666667,33.3979167 34.1666667,32.4583333 L34.1666667,30.75 C34.1666667,26.2058333 25.06125,23.9166667 20.5,23.9166667 Z" id="Shape" fill="url(#linearGradient-3)" fill-rule="nonzero"></path>
+                </g>
+                <line x1="6.75" y1="36.75" x2="35.75" y2="5.75" id="Path-3" stroke="url(#linearGradient-4)" stroke-width="3" fill="#FFFFFF" transform="translate(21.000000, 21.000000) scale(-1, 1) translate(-21.000000, -21.000000) "></line>
+                <line x1="8.75" y1="34.75" x2="37.75" y2="3.75" id="Path-3" stroke="#FFFFFF" stroke-width="3" fill="#FFFFFF" transform="translate(23.000000, 19.000000) scale(-1, 1) translate(-23.000000, -19.000000) "></line>
+            </g>
+        </g>
+    </g>
+</svg>

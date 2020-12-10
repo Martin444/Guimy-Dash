@@ -1,0 +1,131 @@
+html,
+body {
+  font-size: 10px !important;
+  background-color: #f8fafd;
+}
+
+input {
+  filter: none;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 30px #deeffc inset;
+}
+
+.ant-select-dropdown {
+  z-index: 2000;
+}
+
+.ant-table.ant-table-small .ant-table-expanded-row-fixed {
+  text-align: center;
+}
+
+.ant-table thead > tr > th {
+  background-color: #ffffff;
+}
+
+.ant-table.ant-table-small thead > tr > th {
+  font-size: 12px;
+  color: #979797;
+  border-bottom: 4px solid #e5f2fc;
+}
+
+.ant-table-row {
+  border-bottom: 4px solid #e5f2fc;
+}
+
+.ant-table-pagination.ant-pagination.generic-table-pagination {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 15px 0;
+}
+
+.ant-table-pagination.ant-pagination.crud-table-pagination {
+  position: absolute;
+  top: -5.5rem;
+  right: 0;
+}
+
+.ant-table-pagination.ant-pagination {
+  color: #0083e9;
+}
+
+.ant-pagination-item {
+  display: none;
+}
+
+.ant-pagination.mini .ant-pagination-prev .ant-pagination-item-link,
+.ant-pagination.mini .ant-pagination-next .ant-pagination-item-link {
+  color: #0083e9;
+}
+
+.ant-pagination-disabled a,
+.ant-pagination-disabled:hover a,
+.ant-pagination-disabled:focus a,
+.ant-pagination-disabled .ant-pagination-item-link,
+.ant-pagination-disabled:hover .ant-pagination-item-link,
+.ant-pagination-disabled:focus .ant-pagination-item-link {
+  color: rgba(0, 131, 233, 0.25) !important;
+}
+
+.row-color,
+.row-color td {
+  background-color: #deeffc;
+}
+
+.ant-select-single:not(.ant-select-customize-input) .ant-select-selector {
+  border: none;
+  background: #e8ebf0;
+  border-radius: 4px;
+  height: 36px;
+  padding: 4px 24px;
+}
+
+.ant-select-single .ant-select-selector .ant-select-selection-search {
+  padding: 2px 16px;
+}
+
+.autoComplete-container .autocomlpete-status-icon {
+  position: absolute;
+  right: 30px;
+  top: 18px;
+}
+
+.autoComplete-container {
+  width: 100%;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 5px;
+  overflow: hidden;
+  background-color: #e8ebf0;
+}
+
+.autoComplete-ant-container {
+  width: 100%;
+}
+
+.autoComplete-ant-container .ant-select-selector {
+  background: unset !important;
+  border: 'none';
+}
+
+.autoComplete-container.disabled {
+  opacity: 0.5;
+}
+
+.autoComplete-container.success {
+  background: #deeffc;
+  border: 2px solid #0083e9;
+}
+
+.autoComplete-container.error {
+  border: 2px solid #e02020;
+  background: #e8ebf0;
+}
